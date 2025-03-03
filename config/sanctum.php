@@ -46,6 +46,8 @@ return [
 
     'expiration' => null,
 
+    //'expiration' => 120, // token will expire in 120 minutes
+
     /*
     |--------------------------------------------------------------------------
     | Sanctum Middleware

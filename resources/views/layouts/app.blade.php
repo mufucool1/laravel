@@ -25,7 +25,7 @@
             <div class="container">
                 <a class="navbar-brand" href="{{ url('/home') }}">
                     <!--{{ config('app.name', 'Laravel') }}-->
-                    <div><img src="https://saifeecompany.in.net/assets/img/branding/saifee_company_logo.png" style="height:50px;"> | Saifee Company</div>
+                    <div><img src="https://saifeecompany.in/assets/img/branding/saifee_company_logo.png" style="height:50px;"> | Saifee Company</div>
                 </a>
                 <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="{{ __('Toggle navigation') }}">
                     <span class="navbar-toggler-icon"></span>
